@@ -1,0 +1,17 @@
+export const USER_PROFILE = {
+  firstName: "Vincent Sphamandla",
+  lastName: "Khumalo",
+  age: 39,
+  gender: "Male",
+  location: "South Africa, Utrecht",
+  zipCode: "2980",
+  language: ["English", "IsiZulu"],
+  maritalStatus: "Single",
+  children: 3,
+  household: 9,
+  housing: "Own",
+  education: "Computer Science Degree",
+  employmentStatus: "Full Time Employed",
+  job: "Cyber Security Analyst & Developer",
+  income: "$165k+",
+};
